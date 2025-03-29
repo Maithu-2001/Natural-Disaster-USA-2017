@@ -21,6 +21,7 @@ Microsoft Excel / CSV Files – Data preprocessing and transformation.
 GIS Mapping in Power BI – Geospatial visualization of disaster locations.
 
 #Features 
+
 ✅ Interactive Data Visualization – Engaging charts, maps, and graphs for a clear understanding of disaster trends.
 
 ✅ Geospatial Analysis – A dynamic map highlighting disaster-affected regions across the USA.
