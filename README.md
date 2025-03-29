@@ -38,7 +38,8 @@ GIS Mapping in Power BI – Geospatial visualization of disaster locations.
 
 ✅ Data-Driven Decision Making – Helps policymakers, emergency responders, and researchers strategize for better disaster management.
 
-Conclusion
+#Conclusion
+
 This Power BI dashboard serves as a valuable tool for understanding the scale and impact of natural disasters in the USA during 2017. It provides key insights for policymakers, researchers, and disaster response teams to improve preparedness and response strategies. By leveraging data visualization, stakeholders can make informed decisions to mitigate future risks.
 
 
