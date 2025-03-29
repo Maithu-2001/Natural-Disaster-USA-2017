@@ -22,12 +22,19 @@ GIS Mapping in Power BI – Geospatial visualization of disaster locations.
 
 #Features 
 ✅ Interactive Data Visualization – Engaging charts, maps, and graphs for a clear understanding of disaster trends.
+
 ✅ Geospatial Analysis – A dynamic map highlighting disaster-affected regions across the USA.
+
 ✅ Disaster Categorization – Breakdown of different natural disasters, such as hurricanes, wildfires, floods, and earthquakes.
+
 ✅ Impact Assessment – Displays economic losses, number of casualties, and affected population.
+
 ✅ Time-based Analysis – Track disaster occurrences and patterns over months and seasons.
+
 ✅ Dynamic Filters & Slicers – Users can filter data by state, disaster type, and time period for custom insights.
+
 ✅ Comparative Analysis – Compare the severity and impact of various disasters in different regions.
+
 ✅ Data-Driven Decision Making – Helps policymakers, emergency responders, and researchers strategize for better disaster management.
 
 Conclusion
