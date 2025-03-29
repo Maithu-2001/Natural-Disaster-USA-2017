@@ -1,5 +1,5 @@
 # Natural-Disaster-USA-2017
-Description
+# Description
 The Natural Disaster USA 2017 Dashboard is an interactive Power BI report that visualizes the impact of natural disasters across the United States in 2017. This dashboard provides detailed insights into various types of disasters, their geographical distribution, and the extent of damage caused. The report includes:
 
 🌍 Geospatial Analysis – Visual representation of disaster-affected regions.
@@ -20,8 +20,7 @@ Microsoft Excel / CSV Files – Data preprocessing and transformation.
 
 GIS Mapping in Power BI – Geospatial visualization of disaster locations.
 
-Features 
-
+#Features 
 ✅ Interactive Data Visualization – Engaging charts, maps, and graphs for a clear understanding of disaster trends.
 ✅ Geospatial Analysis – A dynamic map highlighting disaster-affected regions across the USA.
 ✅ Disaster Categorization – Breakdown of different natural disasters, such as hurricanes, wildfires, floods, and earthquakes.
